@@ -1,4 +1,4 @@
 source "http://production.cf.rubygems.org/"
 
-gem "rake", "~> 10.1.1"
+gem "rake", ">= 12.3.3"
 gem "github-pages", "~> 15"
