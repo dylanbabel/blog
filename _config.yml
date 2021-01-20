@@ -14,6 +14,28 @@ avatar: https://dylanbabel.tk/blog/images/logo.svg
 #
 # Flags below are optional
 #
+safe: false
+lsi: false
+pygments: true
+
+relative_source: ../EXAMPLE/
+destination: ../EXAMPLE/
+
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/dylanbabel/blog.git
+# username defaults to ENV['dylanbabel'] used by Travis
+# repo defaults to dylanbabel.github.io
+# Branch defaults to "master" for dylanbabel.github.io
+# or "master" otherwise
+username: dylanbabel
+repo: blog
+branch: master
+
+permalink: pretty
+
+paginate: 10
+paginate_path: "blog/page:num"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -44,7 +66,7 @@ google_analytics:
 url: https://dylanbabel.tk
 
 # If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
+# (https://github.com/dylanbabel/blog)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/blog"
