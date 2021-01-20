@@ -23,4 +23,4 @@ env:
 # Generate your secure token with the travis gem:
 # get Github token from your Travis CI profile page
 # gem install travis
-# travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN'
+# travis encrypt 'GIT_NAME="dylanbabel" GIT_EMAIL="dylan.abel.00737@gmail.com" GH_TOKEN=cbdeb5adbd4f4baed5f5daefbe414c5a31618794'
