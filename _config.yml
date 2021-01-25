@@ -38,6 +38,7 @@ paginate: 10
 paginate_path: "blog/page:num"
 
 plgins: 
+  - jekyll-category-pages
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
