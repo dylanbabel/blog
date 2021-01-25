@@ -37,6 +37,7 @@ permalink: pretty
 paginate: 10
 paginate_path: "blog/page:num"
 
+plgins: 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -98,6 +99,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate
+  - jekyll-category-pages
   
 collections:
   staff_members:
