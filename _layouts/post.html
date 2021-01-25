@@ -11,7 +11,7 @@ layout: default
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
-    {{page.category | first}}
+    {% include category %}
   </div>
 
   {% include disqus.html %}
