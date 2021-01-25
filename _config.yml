@@ -90,7 +90,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-remote_theme:Ghost's Casper // Jasper2
+remote_theme:Ghost's Casper/Jasper2
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
