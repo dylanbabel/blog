@@ -3,7 +3,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "About"
-    url: /blog/about
+    url: /about/
   - title: "Politics"
      url: /categories/politics/
   - title: "Sample Collections"
