@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Politics"
-     url: /categories/politics/
+    url: /categories/politics/
   - title: "Sample Collections"
     url: /collection-archive/
     
