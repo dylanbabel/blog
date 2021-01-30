@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an Accounting technician working on my CPA designation."
   location         : "Alberta"
-  email            :dylan@dylanbabel.tk
+  email            : dylan@dylanbabel.tk
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
