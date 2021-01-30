@@ -1,9 +1,14 @@
 # main links
 main:
+  - title: "Blog"
+    url: 
   - title: "About"
     url: https://dylanbabel.tk/blog/about
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "Categories"
+     url: /categories/
+     children:
+     - title: "Politics"
+       url: /categories/politics/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
