@@ -3,7 +3,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "About"
-    url: https://dylanbabel.tk/blog/about
+    url: /blog/about
   - title: "Politics"
      url: /categories/politics/
   - title: "Sample Collections"
