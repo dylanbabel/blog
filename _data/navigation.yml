@@ -5,11 +5,8 @@ main:
     url: /blog/
   - title: "About"
     url: https://dylanbabel.tk/blog/about
-   - title: "Categories"
-     url: /categories/
-     children:
-     - title: "Politics"
-       url: /categories/politics/
+   - title: "Politics"
+     url: /categories/politics/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
