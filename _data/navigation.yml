@@ -6,6 +6,6 @@ main:
     url: /about/
   - title: "Politics"
     url: /categories/politics/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  - title: "Opinion"
+    url: /categories/opinion/
     
