@@ -1,6 +1,7 @@
 ---
 title: "Biden a President?"
 author: DBA
+author_profile: false
 header:
   overlay_color: "#F5DCE1"
   overlay_filter: "0.1"
