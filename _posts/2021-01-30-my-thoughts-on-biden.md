@@ -4,7 +4,7 @@ author: DBA
 author_profile: false
 header:
   overlay_color: "#BF0A30 "
-  overlay_filter: "0.5"
+  overlay_filter: "0.7"
   overlay_image: /assets/images/post-photos/2021-01-30-my-thoughts-on-biden/header.jpg
   teaser: "/assets/images/post-photos/2021-01-30-my-thoughts-on-biden/teaser.jpg"
 ---
