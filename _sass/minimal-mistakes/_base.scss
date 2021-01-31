@@ -6,6 +6,15 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar{
+  width: 0px;
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #ff0000;
 }
 
 body {
