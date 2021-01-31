@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Blog"
-    url: /blog/
+    url: /
   - title: "Politics"
     url: /categories/politics/
   - title: "Opinion"
