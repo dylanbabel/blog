@@ -7,6 +7,11 @@ header:
   overlay_filter: "0.6"
   overlay_image: /assets/images/post-photos/2021-01-30-my-thoughts-on-biden/header.jpg
   teaser: "/assets/images/post-photos/2021-01-30-my-thoughts-on-biden/teaser.jpg"
+layouts_gallery:
+  - url: /assets/images/post-photos/2021-01-30-my-thoughts-on-biden/2.jpg
+    image_path: /assets/images/2021-01-30-my-thoughts-on-biden/2.jpg
+  - url: /assets/images/post-photos/2021-01-30-my-thoughts-on-biden/3.jpg
+    image_path: /assets/images/2021-01-30-my-thoughts-on-biden/3.jpg
 categories:
   - Politics
   - Opinion
@@ -48,3 +53,7 @@ Below I have put all of the official executive orders signed as of January 30th 
 22. [Reforming Our Incarceration System To Eliminate the Use of Privately Operated Criminal Detention Facilities](https://www.govinfo.gov/content/pkg/FR-2021-01-29/pdf/2021-02070.pdf)
 23. [Tackling the Climate Crisis at Home and Abroad](https://www.govinfo.gov/content/pkg/FR-2021-02-01/pdf/2021-02177.pdf)
 24. [President's Council of Advisors on Science and Technology](https://www.govinfo.gov/content/pkg/FR-2021-02-01/pdf/2021-02176.pdf)
+
+Now the photos of biden violating his own mask mandate on federal property.
+
+{% include gallery id="layouts_gallery" %}
