@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/authors.yaml
   label: Authors
-  match: "**/*"
 - type: directory
   path: assets/doc
   label: Docs

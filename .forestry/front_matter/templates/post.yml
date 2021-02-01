@@ -37,6 +37,10 @@ fields:
   - type: file
     name: image_path
     label: image_path
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: gallery
 - type: list
   name: categories
   label: categories
@@ -44,3 +48,15 @@ fields:
   type: tag_list
   default: []
   label: Tags
+- name: blocks
+  type: blocks
+  label: blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
