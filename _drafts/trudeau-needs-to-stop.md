@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+- Opinion
 date: 2021-02-01 17:30:35 +0000
 title: Trudeau needs to stop
 author: Dba
@@ -11,7 +12,8 @@ header:
   teaser: "/assets/images/post-photos/justin-trudeau-blackface.jpg"
 layouts_gallery: []
 gallery: []
-categories: []
+categories:
+- Opinion
 blocks: []
 image: ''
 
