@@ -9,7 +9,7 @@ header:
   teaser: "/assets/images/post-photos/2021-01-30-my-thoughts-on-biden/teaser.jpg"
 layouts_gallery:
   - url: /assets/images/post-photos/2021-01-30-my-thoughts-on-biden/2.jpg
-    image_path: /assets/images/2021-01-30-my-thoughts-on-biden/2.jpg
+    image_path: /assets/images/2021-01-30-my-thoughts-on-biden/2 small.jpg
   - url: /assets/images/post-photos/2021-01-30-my-thoughts-on-biden/3.jpg
     image_path: /assets/images/2021-01-30-my-thoughts-on-biden/3.jpg
 categories:
