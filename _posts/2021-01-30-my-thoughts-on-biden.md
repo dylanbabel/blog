@@ -18,3 +18,7 @@ My thoughts are simple he claimed to support middle-class workers and the enviro
 He then continued to sign the executive order that he had no idea what it contained.
 
 This is not an acceptable way to sign documents as the president of any organization much less a nation. I am also not very enthused by the total number of executive orders he has used instead of passing legislation through the house and senate.
+
+Below I have put all of the official executive orders signed as of January 30th one of them is dated for February though.
+
+[Revision of Civil Immigration Enforcement Policies and Priorities](https://www.govinfo.gov/content/pkg/FR-2021-01-25/pdf/2021-01768.pdf)
