@@ -19,7 +19,7 @@ He then continued to sign the executive order that he had no idea what it contai
 
 This is not an acceptable way to sign documents as the president of any organization much less a nation. I am also not very enthused by the total number of executive orders he has used instead of passing legislation through the house and senate.
 
-Below I have put all of the official executive orders signed as of January 30th one of them is dated for February though.
+Below I have put all of the official executive orders signed as of January 30th one of them is dated for February though. this list is everything from the federal records and their is more than one for each day of his presidency. However according to [CNN](https://www.cnn.com/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html) there are 42 executice actions so I have no clue where the rest of them are. Not to mention that the [CNN article](https://www.cnn.com/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html) was last updated on the 29th of January 2021.
 
 1. [Revision of Civil Immigration Enforcement Policies and Priorities](https://www.govinfo.gov/content/pkg/FR-2021-01-25/pdf/2021-01768.pdf)
 2. [Revocation of Certain Executive Orders Concerning Federal Regulation](https://www.govinfo.gov/content/pkg/FR-2021-01-25/pdf/2021-01767.pdf)
@@ -45,4 +45,3 @@ Below I have put all of the official executive orders signed as of January 30th 
 22. [Reforming Our Incarceration System To Eliminate the Use of Privately Operated Criminal Detention Facilities](https://www.govinfo.gov/content/pkg/FR-2021-01-29/pdf/2021-02070.pdf)
 23. [Tackling the Climate Crisis at Home and Abroad](https://www.govinfo.gov/content/pkg/FR-2021-02-01/pdf/2021-02177.pdf)
 24. [President's Council of Advisors on Science and Technology](https://www.govinfo.gov/content/pkg/FR-2021-02-01/pdf/2021-02176.pdf)
-
