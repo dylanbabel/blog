@@ -70,3 +70,5 @@ fields:
     time_format: 
     display_utc: false
   default: now
+pages:
+- _posts/trudeau-needs-to-stop.md
