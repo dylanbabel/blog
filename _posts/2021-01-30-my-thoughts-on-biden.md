@@ -7,6 +7,9 @@ header:
   overlay_filter: "0.6"
   overlay_image: /assets/images/post-photos/2021-01-30-my-thoughts-on-biden/header.jpg
   teaser: "/assets/images/post-photos/2021-01-30-my-thoughts-on-biden/teaser.jpg"
+category:
+  - Politics
+  - Opinion
 ---
 
 The following are events that have occured during the campaign or administration of Joe Biden that make me look at him as an unfit leader that could have in no way legitamitly achieved 80 million votes in his favor.
