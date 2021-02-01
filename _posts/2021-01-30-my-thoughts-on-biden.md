@@ -10,6 +10,8 @@ header:
 layouts_gallery:
   - url: /assets/images/post-photos/2021-01-30-my-thoughts-on-biden/2.jpeg
     image_path: /assets/images/2021-01-30-my-thoughts-on-biden/2.jpeg
+  - url: /assets/images/post-photos/2021-01-30-my-thoughts-on-biden/3.jpeg
+    image_path: /assets/images/2021-01-30-my-thoughts-on-biden/3.jpeg
 categories:
   - Politics
   - Opinion
