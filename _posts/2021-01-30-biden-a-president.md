@@ -57,3 +57,4 @@ Below I have put all of the official executive orders signed as of January 30th 
 Now the photos of biden violating his own mask mandate on federal property.
 
 {% include gallery id="layouts_gallery" %}
+
