@@ -11,7 +11,8 @@ header:
   overlay_image: "/assets/images/post-photos/justin-trudeau-blackface.jpg"
   teaser: "/assets/images/post-photos/justin-trudeau-blackface.jpg"
 layouts_gallery: []
-gallery: []
+gallery:
+- "/assets/images/post-photos/justin-trudeau-blackface.jpg"
 categories:
 - Opinion
 blocks: []
