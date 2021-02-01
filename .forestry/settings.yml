@@ -5,7 +5,7 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: document
-  path: _data/authors.yaml
+  path: _data/authors.yml
   label: Authors
 - type: directory
   path: assets/doc
