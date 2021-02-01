@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.6"
   overlay_image: /assets/images/post-photos/2021-01-30-my-thoughts-on-biden/header.jpg
   teaser: "/assets/images/post-photos/2021-01-30-my-thoughts-on-biden/teaser.jpg"
-category:
+categories:
   - Politics
   - Opinion
 ---
