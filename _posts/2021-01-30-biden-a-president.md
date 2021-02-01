@@ -58,3 +58,4 @@ Now the photos of biden violating his own mask mandate on federal property.
 
 {% include gallery id="layouts_gallery" %}
 
+There it is I have no more respect for Biden he has already failed as a leader, and has hurt relations with Canada beyond repair under his administration.
