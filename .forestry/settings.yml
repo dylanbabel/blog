@@ -9,7 +9,7 @@ sections:
   label: Docs
   create: documents
   match: "**/*"
-  new_doc_ext: ".pdf"
+  new_doc_ext: pdf
 - type: jekyll-pages
   label: Pages
   create: all
