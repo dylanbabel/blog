@@ -219,6 +219,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-menus
   - jemoji
 
 # mimic GitHub Pages with --safe
